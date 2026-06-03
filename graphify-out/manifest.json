@@ -1,0 +1,1062 @@
+{
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\.vscode\\extensions.json": {
+    "mtime": 1780488013.578683,
+    "ast_hash": "d1846e92ceedfa6eb08a69cbb38c190a",
+    "semantic_hash": "d1846e92ceedfa6eb08a69cbb38c190a"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\components.json": {
+    "mtime": 1780488013.5983422,
+    "ast_hash": "7b344d82ca45e91333de3c8c81960a63",
+    "semantic_hash": "7b344d82ca45e91333de3c8c81960a63"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\package.json": {
+    "mtime": 1780488013.7982242,
+    "ast_hash": "9b640f5a1e7bdb3cd647a9655f57f0bc",
+    "semantic_hash": "9b640f5a1e7bdb3cd647a9655f57f0bc"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\build.rs": {
+    "mtime": 1780488013.8183877,
+    "ast_hash": "8912b99069360dd8680a67e9a2b9f140",
+    "semantic_hash": "8912b99069360dd8680a67e9a2b9f140"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\capabilities\\cross-platform.json": {
+    "mtime": 1780488013.8294902,
+    "ast_hash": "8cc3c0b1faea4bea7edbe4f293ff5a32",
+    "semantic_hash": "8cc3c0b1faea4bea7edbe4f293ff5a32"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\capabilities\\default.json": {
+    "mtime": 1780488013.8320334,
+    "ast_hash": "ae42400d2f40b8abe59cb9be148317a1",
+    "semantic_hash": "ae42400d2f40b8abe59cb9be148317a1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\activate.rs": {
+    "mtime": 1780488013.9074118,
+    "ast_hash": "22f1d74ad2f4957a43cf58511d84416c",
+    "semantic_hash": "22f1d74ad2f4957a43cf58511d84416c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\api.rs": {
+    "mtime": 1780488013.9185233,
+    "ast_hash": "35258829c6e95d2b2163cc6eaaeb68df",
+    "semantic_hash": "35258829c6e95d2b2163cc6eaaeb68df"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\capture.rs": {
+    "mtime": 1780488013.9246728,
+    "ast_hash": "cd8f6c432d4cbf38d4728dbc29418491",
+    "semantic_hash": "cd8f6c432d4cbf38d4728dbc29418491"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\db\\main.rs": {
+    "mtime": 1780488013.93337,
+    "ast_hash": "fb5174b7292409dc370dbf84d7347377",
+    "semantic_hash": "fb5174b7292409dc370dbf84d7347377"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\db\\migrations\\chat-history.sql": {
+    "mtime": 1780488013.937411,
+    "ast_hash": "f742ec926741ef980411b8abae6412ae",
+    "semantic_hash": "f742ec926741ef980411b8abae6412ae"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\db\\migrations\\system-prompts.sql": {
+    "mtime": 1780488013.9552782,
+    "ast_hash": "36b9eba3646ee9b1f6e6fa69f9eb2ef3",
+    "semantic_hash": "36b9eba3646ee9b1f6e6fa69f9eb2ef3"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\db\\mod.rs": {
+    "mtime": 1780488013.9653738,
+    "ast_hash": "75ff823d919b20431ccc40c3ebea670b",
+    "semantic_hash": "75ff823d919b20431ccc40c3ebea670b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\lib.rs": {
+    "mtime": 1780488013.9693997,
+    "ast_hash": "f89881c76a00081bf007ecf983544ff6",
+    "semantic_hash": "f89881c76a00081bf007ecf983544ff6"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\main.rs": {
+    "mtime": 1780488013.9745274,
+    "ast_hash": "0dd0e49497dc36b972300c9e38cf07f7",
+    "semantic_hash": "0dd0e49497dc36b972300c9e38cf07f7"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\shortcuts.rs": {
+    "mtime": 1780488013.9795673,
+    "ast_hash": "2bfe204daf48f48c676a18cfe8122f54",
+    "semantic_hash": "2bfe204daf48f48c676a18cfe8122f54"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\speaker\\commands.rs": {
+    "mtime": 1780488013.9856389,
+    "ast_hash": "658314890d4f67ce6eb87e159a4e30d0",
+    "semantic_hash": "658314890d4f67ce6eb87e159a4e30d0"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\speaker\\linux.rs": {
+    "mtime": 1780488013.9881885,
+    "ast_hash": "67a7e4d6c3212c8c3e49b152938b3f38",
+    "semantic_hash": "67a7e4d6c3212c8c3e49b152938b3f38"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\speaker\\macos.rs": {
+    "mtime": 1780488013.9912164,
+    "ast_hash": "a1f8ba081051993d4bee3973e9645164",
+    "semantic_hash": "a1f8ba081051993d4bee3973e9645164"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\speaker\\mod.rs": {
+    "mtime": 1780488013.9986143,
+    "ast_hash": "e207059aa12e49a200cb3cb1f4b383ca",
+    "semantic_hash": "e207059aa12e49a200cb3cb1f4b383ca"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\speaker\\windows.rs": {
+    "mtime": 1780488014.0290923,
+    "ast_hash": "6a2bd56211c5a768ddf75bdb64420eed",
+    "semantic_hash": "6a2bd56211c5a768ddf75bdb64420eed"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\src\\window.rs": {
+    "mtime": 1780488014.0422604,
+    "ast_hash": "fa41b5602d5266b5d69ce5c52834fe89",
+    "semantic_hash": "fa41b5602d5266b5d69ce5c52834fe89"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\tauri.conf.json": {
+    "mtime": 1780488014.0503654,
+    "ast_hash": "202fe5e9f96cea6dfc29b2d29449d8ca",
+    "semantic_hash": "202fe5e9f96cea6dfc29b2d29449d8ca"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Contribute.tsx": {
+    "mtime": 1780488014.0621548,
+    "ast_hash": "7ceec3e40fd48c83db246c43ac687a64",
+    "semantic_hash": "7ceec3e40fd48c83db246c43ac687a64"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\CustomCursor.tsx": {
+    "mtime": 1780488014.0661976,
+    "ast_hash": "f5d6c2b92acb937b53a569dcdd8e03b5",
+    "semantic_hash": "f5d6c2b92acb937b53a569dcdd8e03b5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\DragButton.tsx": {
+    "mtime": 1780488014.0691886,
+    "ast_hash": "6085f846e986e22af6d7ac6c60a0f64f",
+    "semantic_hash": "6085f846e986e22af6d7ac6c60a0f64f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Empty\\index.tsx": {
+    "mtime": 1780488014.0742617,
+    "ast_hash": "1a2edafff455379cfb80d265e69ffc18",
+    "semantic_hash": "1a2edafff455379cfb80d265e69ffc18"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\GetLicense.tsx": {
+    "mtime": 1780488014.0782897,
+    "ast_hash": "c84e9411f73b646cd01594554e3d207c",
+    "semantic_hash": "c84e9411f73b646cd01594554e3d207c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Header\\index.tsx": {
+    "mtime": 1780488014.0823658,
+    "ast_hash": "7dbdf88882b2377105c6cf286c06bb0e",
+    "semantic_hash": "7dbdf88882b2377105c6cf286c06bb0e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Icons.tsx": {
+    "mtime": 1780488014.0874238,
+    "ast_hash": "729ff36d2b78290589614a56cca1418d",
+    "semantic_hash": "729ff36d2b78290589614a56cca1418d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Markdown\\copy-button.tsx": {
+    "mtime": 1780488014.0924747,
+    "ast_hash": "d501db90aa120f226b1af522142cdd5b",
+    "semantic_hash": "d501db90aa120f226b1af522142cdd5b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Markdown\\index.tsx": {
+    "mtime": 1780488014.0965252,
+    "ast_hash": "5f674f9bc4e86d47a56cced504dd769f",
+    "semantic_hash": "5f674f9bc4e86d47a56cced504dd769f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Overlay.tsx": {
+    "mtime": 1780488014.1005285,
+    "ast_hash": "6b513a9ba5aa9ff681e480def79ffd79",
+    "semantic_hash": "6b513a9ba5aa9ff681e480def79ffd79"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Promote.tsx": {
+    "mtime": 1780488014.104684,
+    "ast_hash": "d75ee30d5d2e4946d4d0d5973e53246b",
+    "semantic_hash": "d75ee30d5d2e4946d4d0d5973e53246b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Selection\\index.tsx": {
+    "mtime": 1780488014.1097054,
+    "ast_hash": "2cd4e8b71dec7b6be6dc39b1a46abba3",
+    "semantic_hash": "2cd4e8b71dec7b6be6dc39b1a46abba3"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\Sidebar.tsx": {
+    "mtime": 1780488014.112679,
+    "ast_hash": "b4cd0b06dd86290e560382fee4c55654",
+    "semantic_hash": "b4cd0b06dd86290e560382fee4c55654"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\TextInput\\index.tsx": {
+    "mtime": 1780488014.1163616,
+    "ast_hash": "e0c40bd1cb6026a3db26be823c841651",
+    "semantic_hash": "e0c40bd1cb6026a3db26be823c841651"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\index.ts": {
+    "mtime": 1780488014.1191545,
+    "ast_hash": "587b2a0c0ffa117cf37d695954545d39",
+    "semantic_hash": "587b2a0c0ffa117cf37d695954545d39"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\badge.tsx": {
+    "mtime": 1780488014.1221573,
+    "ast_hash": "beee1c5870159cdbd5f3876f499e185a",
+    "semantic_hash": "beee1c5870159cdbd5f3876f499e185a"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\button.tsx": {
+    "mtime": 1780488014.1247122,
+    "ast_hash": "29dbd33048c09a717835030529e705f5",
+    "semantic_hash": "29dbd33048c09a717835030529e705f5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\card.tsx": {
+    "mtime": 1780488014.127732,
+    "ast_hash": "33a461ba6817cb9d5547d8ff9d1f50db",
+    "semantic_hash": "33a461ba6817cb9d5547d8ff9d1f50db"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\chart.tsx": {
+    "mtime": 1780488014.1312466,
+    "ast_hash": "30c9b8a235f72795d258085a5031c548",
+    "semantic_hash": "30c9b8a235f72795d258085a5031c548"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\command.tsx": {
+    "mtime": 1780488014.1322656,
+    "ast_hash": "c1db40a6f8892dba4122046b4b448484",
+    "semantic_hash": "c1db40a6f8892dba4122046b4b448484"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\dialog.tsx": {
+    "mtime": 1780488014.1355224,
+    "ast_hash": "e9d00ee8a73ca3aa76142b32f1394a99",
+    "semantic_hash": "e9d00ee8a73ca3aa76142b32f1394a99"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\dropdown-menu.tsx": {
+    "mtime": 1780488014.138537,
+    "ast_hash": "df9908a404c94aead6e7b40e3297290f",
+    "semantic_hash": "df9908a404c94aead6e7b40e3297290f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\empty.tsx": {
+    "mtime": 1780488014.141292,
+    "ast_hash": "d22f7eab9abab0c2804628ecc5eee7cb",
+    "semantic_hash": "d22f7eab9abab0c2804628ecc5eee7cb"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\index.ts": {
+    "mtime": 1780488014.1441443,
+    "ast_hash": "4bcaf1f0724d96ba718a32ab923e1a5d",
+    "semantic_hash": "4bcaf1f0724d96ba718a32ab923e1a5d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\input.tsx": {
+    "mtime": 1780488014.1477365,
+    "ast_hash": "93c07b4cf863c3ad2bb2cc8577a4f997",
+    "semantic_hash": "93c07b4cf863c3ad2bb2cc8577a4f997"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\label.tsx": {
+    "mtime": 1780488014.1498494,
+    "ast_hash": "d4ef49489280dcae40f74917cb83f8a1",
+    "semantic_hash": "d4ef49489280dcae40f74917cb83f8a1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\popover.tsx": {
+    "mtime": 1780488014.1518579,
+    "ast_hash": "c359a488dfc8a9c624ad6b9ec67b0675",
+    "semantic_hash": "c359a488dfc8a9c624ad6b9ec67b0675"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\scroll-area.tsx": {
+    "mtime": 1780488014.1543748,
+    "ast_hash": "0e08312ec85482bf225d3bf4af6cc4ee",
+    "semantic_hash": "0e08312ec85482bf225d3bf4af6cc4ee"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\select.tsx": {
+    "mtime": 1780488014.1569452,
+    "ast_hash": "5c3bf55d5aa50b6301dd5a7d13e4428b",
+    "semantic_hash": "5c3bf55d5aa50b6301dd5a7d13e4428b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\slider.tsx": {
+    "mtime": 1780488014.1599672,
+    "ast_hash": "45c9e621d70a3367af7786356280d44a",
+    "semantic_hash": "45c9e621d70a3367af7786356280d44a"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\switch.tsx": {
+    "mtime": 1780488014.161965,
+    "ast_hash": "d024be3ed1d8884b7c93184fcab50321",
+    "semantic_hash": "d024be3ed1d8884b7c93184fcab50321"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\tabs.tsx": {
+    "mtime": 1780488014.1644826,
+    "ast_hash": "69c314d13737ea3433c2e672e8f7859f",
+    "semantic_hash": "69c314d13737ea3433c2e672e8f7859f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\ui\\textarea.tsx": {
+    "mtime": 1780488014.16722,
+    "ast_hash": "ce93259b4cb35895cbf5f6ac189ae0e4",
+    "semantic_hash": "ce93259b4cb35895cbf5f6ac189ae0e4"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\components\\updater\\index.tsx": {
+    "mtime": 1780488014.170242,
+    "ast_hash": "a31df60c98098ae3656ddc38418f4c65",
+    "semantic_hash": "a31df60c98098ae3656ddc38418f4c65"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\config\\ai-providers.constants.ts": {
+    "mtime": 1780488014.1732364,
+    "ast_hash": "2ee5a06a4d9a85d28ae3a206b8e75757",
+    "semantic_hash": "2ee5a06a4d9a85d28ae3a206b8e75757"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\config\\constants.ts": {
+    "mtime": 1780488014.175784,
+    "ast_hash": "822b371eed93684e22f8c13007590625",
+    "semantic_hash": "822b371eed93684e22f8c13007590625"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\config\\index.ts": {
+    "mtime": 1780488014.178323,
+    "ast_hash": "8aaae94f691b4f2e7abb83379426cc6b",
+    "semantic_hash": "8aaae94f691b4f2e7abb83379426cc6b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\config\\shortcuts.ts": {
+    "mtime": 1780488014.1808765,
+    "ast_hash": "b154a7fbd2e08acc96248d34b3eea5f8",
+    "semantic_hash": "b154a7fbd2e08acc96248d34b3eea5f8"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\config\\stt.constants.ts": {
+    "mtime": 1780488014.1858683,
+    "ast_hash": "7064475df994370ebcc93a6e30d9cf4b",
+    "semantic_hash": "7064475df994370ebcc93a6e30d9cf4b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\contexts\\app.context.tsx": {
+    "mtime": 1780488014.1909504,
+    "ast_hash": "d4d8fb778da4bdfd8df3b33b540e4d40",
+    "semantic_hash": "d4d8fb778da4bdfd8df3b33b540e4d40"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\contexts\\index.ts": {
+    "mtime": 1780488014.192983,
+    "ast_hash": "e48f0aa0cae9e33abd1e7bc6f56a736e",
+    "semantic_hash": "e48f0aa0cae9e33abd1e7bc6f56a736e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\contexts\\theme.context.tsx": {
+    "mtime": 1780488014.194979,
+    "ast_hash": "3e243b9229c9cc137fad3fd6bf3bab31",
+    "semantic_hash": "3e243b9229c9cc137fad3fd6bf3bab31"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\index.ts": {
+    "mtime": 1780488014.206073,
+    "ast_hash": "f1d22224db71b5debc83eab445d6fbff",
+    "semantic_hash": "f1d22224db71b5debc83eab445d6fbff"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useApp.ts": {
+    "mtime": 1780488014.2166853,
+    "ast_hash": "7026e5b3d9e2b26723c376c71b1efa3e",
+    "semantic_hash": "7026e5b3d9e2b26723c376c71b1efa3e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useChatCompletion.ts": {
+    "mtime": 1780488014.2217412,
+    "ast_hash": "90ee9b287a88a8dd7c5c6cca14179a2d",
+    "semantic_hash": "90ee9b287a88a8dd7c5c6cca14179a2d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useCompletion.ts": {
+    "mtime": 1780488014.226282,
+    "ast_hash": "282cf5dc3c8828aa0e5918298fe2535c",
+    "semantic_hash": "282cf5dc3c8828aa0e5918298fe2535c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useCopyToClipboard.ts": {
+    "mtime": 1780488014.2292855,
+    "ast_hash": "2a39f7a7dee5463888fa536da40d04b8",
+    "semantic_hash": "2a39f7a7dee5463888fa536da40d04b8"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useCustomProvider.ts": {
+    "mtime": 1780488014.232891,
+    "ast_hash": "5fdcceb5d2c882185f049345209f53e1",
+    "semantic_hash": "5fdcceb5d2c882185f049345209f53e1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useCustomSttProviders.ts": {
+    "mtime": 1780488014.237436,
+    "ast_hash": "53ed006fd32f7c205468e83eab5716c4",
+    "semantic_hash": "53ed006fd32f7c205468e83eab5716c4"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useGlobalShortcuts.ts": {
+    "mtime": 1780488014.241976,
+    "ast_hash": "162d12a3c0a86119a54236eae8869474",
+    "semantic_hash": "162d12a3c0a86119a54236eae8869474"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useHistory.ts": {
+    "mtime": 1780488014.2465324,
+    "ast_hash": "0103af4dafe9cb8683b3992c43cc4511",
+    "semantic_hash": "0103af4dafe9cb8683b3992c43cc4511"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useMenuItems.tsx": {
+    "mtime": 1780488014.249532,
+    "ast_hash": "035d46a944a2d39029ec359033430f0a",
+    "semantic_hash": "035d46a944a2d39029ec359033430f0a"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useSettings.ts": {
+    "mtime": 1780488014.2515342,
+    "ast_hash": "7d120c9438ac9635539a1d2498762c17",
+    "semantic_hash": "7d120c9438ac9635539a1d2498762c17"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useShortcuts.ts": {
+    "mtime": 1780488014.254403,
+    "ast_hash": "19252c2df6b98aed93b15f3e157003c0",
+    "semantic_hash": "19252c2df6b98aed93b15f3e157003c0"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useSystemAudio.ts": {
+    "mtime": 1780488014.2569556,
+    "ast_hash": "08cab0e19047d4362639bd17e1c2ff49",
+    "semantic_hash": "08cab0e19047d4362639bd17e1c2ff49"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useSystemPrompts.ts": {
+    "mtime": 1780488014.2589886,
+    "ast_hash": "607bf134bc03df76eee3c40d5f398482",
+    "semantic_hash": "607bf134bc03df76eee3c40d5f398482"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useTitles.ts": {
+    "mtime": 1780488014.2609904,
+    "ast_hash": "803c501f38c5fcedaa151022545a6ba2",
+    "semantic_hash": "803c501f38c5fcedaa151022545a6ba2"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useVersion.ts": {
+    "mtime": 1780488014.2635446,
+    "ast_hash": "55ec5b4739150f00c4eb0911cd117c23",
+    "semantic_hash": "55ec5b4739150f00c4eb0911cd117c23"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\hooks\\useWindow.ts": {
+    "mtime": 1780488014.2663639,
+    "ast_hash": "f661984708c3c65b786d1d18de8e7eb6",
+    "semantic_hash": "f661984708c3c65b786d1d18de8e7eb6"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\layouts\\DashboardLayout.tsx": {
+    "mtime": 1780488014.2699153,
+    "ast_hash": "4ac61ca0aba4e9aedfb7b5577ddfa23d",
+    "semantic_hash": "4ac61ca0aba4e9aedfb7b5577ddfa23d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\layouts\\ErrorLayout.tsx": {
+    "mtime": 1780488014.271918,
+    "ast_hash": "68e5330ed9b3b98e37dd34a4f7c4ba9c",
+    "semantic_hash": "68e5330ed9b3b98e37dd34a4f7c4ba9c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\layouts\\PageLayout.tsx": {
+    "mtime": 1780488014.273437,
+    "ast_hash": "450f51578f642cdb31aa10356efe1a5e",
+    "semantic_hash": "450f51578f642cdb31aa10356efe1a5e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\layouts\\index.ts": {
+    "mtime": 1780488014.2774947,
+    "ast_hash": "e2f46c9aef86bbca5426fe9ea3918cc2",
+    "semantic_hash": "e2f46c9aef86bbca5426fe9ea3918cc2"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\analytics.ts": {
+    "mtime": 1780488014.2810318,
+    "ast_hash": "c9dcaaf174a55bc850f575f355a805d2",
+    "semantic_hash": "c9dcaaf174a55bc850f575f355a805d2"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\chat-constants.ts": {
+    "mtime": 1780488014.2840314,
+    "ast_hash": "ae0e8cc5c8d0508ef41be6fdbbdfca4d",
+    "semantic_hash": "ae0e8cc5c8d0508ef41be6fdbbdfca4d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\curl-validator.ts": {
+    "mtime": 1780488014.286216,
+    "ast_hash": "f0a9caeb322459a96b2f9484f03fac9b",
+    "semantic_hash": "f0a9caeb322459a96b2f9484f03fac9b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\database\\chat-history.action.ts": {
+    "mtime": 1780488014.2907567,
+    "ast_hash": "817e5c5cee4c9c4e4e83d213d48f73c1",
+    "semantic_hash": "817e5c5cee4c9c4e4e83d213d48f73c1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\database\\config.ts": {
+    "mtime": 1780488014.2927766,
+    "ast_hash": "d0d095f61d02057a50c122390758c086",
+    "semantic_hash": "d0d095f61d02057a50c122390758c086"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\database\\index.ts": {
+    "mtime": 1780488014.2953293,
+    "ast_hash": "aa7629a23028c40d53545729cbb356b2",
+    "semantic_hash": "aa7629a23028c40d53545729cbb356b2"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\database\\system-prompt.action.ts": {
+    "mtime": 1780488014.2988634,
+    "ast_hash": "36188bf0fa293d89008a90e85f874b2e",
+    "semantic_hash": "36188bf0fa293d89008a90e85f874b2e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\functions\\ai-response.function.ts": {
+    "mtime": 1780488014.304698,
+    "ast_hash": "cc441fc189fda0f7655017453514d402",
+    "semantic_hash": "cc441fc189fda0f7655017453514d402"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\functions\\common.function.ts": {
+    "mtime": 1780488014.3082578,
+    "ast_hash": "2f0c738422e1893b76e4b3dc6d187cff",
+    "semantic_hash": "2f0c738422e1893b76e4b3dc6d187cff"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\functions\\index.ts": {
+    "mtime": 1780488014.319176,
+    "ast_hash": "c986783df60916859043b6c74ff270d5",
+    "semantic_hash": "c986783df60916859043b6c74ff270d5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\functions\\pluely.api.ts": {
+    "mtime": 1780488014.3271627,
+    "ast_hash": "e210efedefffd96fcf3e8a5c57863f36",
+    "semantic_hash": "e210efedefffd96fcf3e8a5c57863f36"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\functions\\stt.function.ts": {
+    "mtime": 1780488014.3301806,
+    "ast_hash": "68fa7bb508005f93a077941e87aba203",
+    "semantic_hash": "68fa7bb508005f93a077941e87aba203"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\index.ts": {
+    "mtime": 1780488014.3327255,
+    "ast_hash": "17f02746284351c166a61250bab1ede9",
+    "semantic_hash": "17f02746284351c166a61250bab1ede9"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\platform-instructions.ts": {
+    "mtime": 1780488014.3370705,
+    "ast_hash": "f771c2589e74523ff32c29fcd6a17000",
+    "semantic_hash": "f771c2589e74523ff32c29fcd6a17000"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\platform.ts": {
+    "mtime": 1780488014.3401084,
+    "ast_hash": "631f3c3d78dcf778100c6c4be90af16e",
+    "semantic_hash": "631f3c3d78dcf778100c6c4be90af16e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\response-settings.constants.ts": {
+    "mtime": 1780488014.3431165,
+    "ast_hash": "3274679d9085b2611f2edb35b11a454b",
+    "semantic_hash": "3274679d9085b2611f2edb35b11a454b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\storage\\ai-providers.ts": {
+    "mtime": 1780488014.3484585,
+    "ast_hash": "5bc51e7e69a4ecdee8d1b6818a3454dc",
+    "semantic_hash": "5bc51e7e69a4ecdee8d1b6818a3454dc"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\storage\\customizable.storage.ts": {
+    "mtime": 1780488014.350007,
+    "ast_hash": "57d38c39c17c9b6456774b5eb16db119",
+    "semantic_hash": "57d38c39c17c9b6456774b5eb16db119"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\storage\\helper.ts": {
+    "mtime": 1780488014.3530135,
+    "ast_hash": "0932fef121382a1da6d56653b366ec65",
+    "semantic_hash": "0932fef121382a1da6d56653b366ec65"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\storage\\index.ts": {
+    "mtime": 1780488014.3548174,
+    "ast_hash": "bc02bfc7ab931f2d3b6828fb6ce86a25",
+    "semantic_hash": "bc02bfc7ab931f2d3b6828fb6ce86a25"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\storage\\response-settings.storage.ts": {
+    "mtime": 1780488014.35996,
+    "ast_hash": "16e684769fa89dd56131d0268eff0231",
+    "semantic_hash": "16e684769fa89dd56131d0268eff0231"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\storage\\shortcuts.storage.ts": {
+    "mtime": 1780488014.361984,
+    "ast_hash": "ca31a590ca9a3be8bb62500aa4309afe",
+    "semantic_hash": "ca31a590ca9a3be8bb62500aa4309afe"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\storage\\stt-providers.ts": {
+    "mtime": 1780488014.36399,
+    "ast_hash": "d4ec9d2dddb7ecfbd3e6f4e07ebc2584",
+    "semantic_hash": "d4ec9d2dddb7ecfbd3e6f4e07ebc2584"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\utils.ts": {
+    "mtime": 1780488014.366511,
+    "ast_hash": "276be9de69e6f1c40068046e506abcc1",
+    "semantic_hash": "276be9de69e6f1c40068046e506abcc1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\lib\\version.ts": {
+    "mtime": 1780488014.3675385,
+    "ast_hash": "22723bb4bda8117621bc2e145a26d6d2",
+    "semantic_hash": "22723bb4bda8117621bc2e145a26d6d2"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\main.tsx": {
+    "mtime": 1780488014.3701098,
+    "ast_hash": "e2ef22d8b39470f95207d7e060ce5539",
+    "semantic_hash": "e2ef22d8b39470f95207d7e060ce5539"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\completion\\Audio.tsx": {
+    "mtime": 1780488014.377178,
+    "ast_hash": "f8713e86920ca8c64b554f6fbccdaa18",
+    "semantic_hash": "f8713e86920ca8c64b554f6fbccdaa18"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\completion\\AutoSpeechVad.tsx": {
+    "mtime": 1780488014.3807473,
+    "ast_hash": "f8c779c07f0949956bbf33006c1309db",
+    "semantic_hash": "f8c779c07f0949956bbf33006c1309db"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\completion\\Files.tsx": {
+    "mtime": 1780488014.3833008,
+    "ast_hash": "13b33ca86b6328653d4a8619c58aa448",
+    "semantic_hash": "13b33ca86b6328653d4a8619c58aa448"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\completion\\Input.tsx": {
+    "mtime": 1780488014.3888242,
+    "ast_hash": "c33083c6bfc610803271eccfa936e1cc",
+    "semantic_hash": "c33083c6bfc610803271eccfa936e1cc"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\completion\\MessageHistory.tsx": {
+    "mtime": 1780488014.3903468,
+    "ast_hash": "4e49d94fd2dfa12e3d5c177fe5c97fc5",
+    "semantic_hash": "4e49d94fd2dfa12e3d5c177fe5c97fc5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\completion\\Screenshot.tsx": {
+    "mtime": 1780488014.3933764,
+    "ast_hash": "5fc7c97af5c75fefb06f51716e5824cc",
+    "semantic_hash": "5fc7c97af5c75fefb06f51716e5824cc"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\completion\\index.tsx": {
+    "mtime": 1780488014.3969283,
+    "ast_hash": "ea848831e5c9035d63429601ed9f9af2",
+    "semantic_hash": "ea848831e5c9035d63429601ed9f9af2"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\index.ts": {
+    "mtime": 1780488014.3994489,
+    "ast_hash": "95eb4d1c87dfd982fc5c91184128c47d",
+    "semantic_hash": "95eb4d1c87dfd982fc5c91184128c47d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\Header.tsx": {
+    "mtime": 1780488014.4040852,
+    "ast_hash": "a9e026c4404e8d49283d9ab1c2697245",
+    "semantic_hash": "a9e026c4404e8d49283d9ab1c2697245"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\ModeSwitcher.tsx": {
+    "mtime": 1780488014.4061148,
+    "ast_hash": "af8027f3bee88b4f7067cde85029be43",
+    "semantic_hash": "af8027f3bee88b4f7067cde85029be43"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\PermissionFlow.tsx": {
+    "mtime": 1780488014.4081104,
+    "ast_hash": "9dbae66a1aefc1f59d6e29816390cbe5",
+    "semantic_hash": "9dbae66a1aefc1f59d6e29816390cbe5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\QuickActions.tsx": {
+    "mtime": 1780488014.4126973,
+    "ast_hash": "7e78aef9ed6bd97118965fb53e88c722",
+    "semantic_hash": "7e78aef9ed6bd97118965fb53e88c722"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\RecordingPanel.tsx": {
+    "mtime": 1780488014.4152253,
+    "ast_hash": "55aabce727e861a68a57eab1da1bb16d",
+    "semantic_hash": "55aabce727e861a68a57eab1da1bb16d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\ResultsSection.tsx": {
+    "mtime": 1780488014.4192603,
+    "ast_hash": "3b243615195990592a39db4caaea5a9b",
+    "semantic_hash": "3b243615195990592a39db4caaea5a9b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\SettingsPanel.tsx": {
+    "mtime": 1780488014.4233327,
+    "ast_hash": "29310157a5c7b381c994ded6b2bce63c",
+    "semantic_hash": "29310157a5c7b381c994ded6b2bce63c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\StatusIndicator.tsx": {
+    "mtime": 1780488014.427351,
+    "ast_hash": "3c23502cce85e776a30d42b808ab2d81",
+    "semantic_hash": "3c23502cce85e776a30d42b808ab2d81"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\Warning.tsx": {
+    "mtime": 1780488014.4344535,
+    "ast_hash": "14ca46f749fb0f4dceb8fb14a4e124ea",
+    "semantic_hash": "14ca46f749fb0f4dceb8fb14a4e124ea"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\audio-visualizer.tsx": {
+    "mtime": 1780488014.4374685,
+    "ast_hash": "5d52d6c8687190a0e5a165d97a7a38e0",
+    "semantic_hash": "5d52d6c8687190a0e5a165d97a7a38e0"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\components\\speech\\index.tsx": {
+    "mtime": 1780488014.440476,
+    "ast_hash": "d5cf9fa699acdec4836848cd377ff8cb",
+    "semantic_hash": "d5cf9fa699acdec4836848cd377ff8cb"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\app\\index.tsx": {
+    "mtime": 1780488014.4455352,
+    "ast_hash": "1f0cca92f4db36f43d43b12c41e59680",
+    "semantic_hash": "1f0cca92f4db36f43d43b12c41e59680"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\audio\\components\\AudioSelection.tsx": {
+    "mtime": 1780488014.45254,
+    "ast_hash": "8e58cb475f7c19acd57b272c2ea474a3",
+    "semantic_hash": "8e58cb475f7c19acd57b272c2ea474a3"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\audio\\components\\index.ts": {
+    "mtime": 1780488014.4550874,
+    "ast_hash": "7afc572c02bc81ac6ca5a482be2e076f",
+    "semantic_hash": "7afc572c02bc81ac6ca5a482be2e076f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\audio\\index.tsx": {
+    "mtime": 1780488014.460106,
+    "ast_hash": "27a8b4de39c66c45c338fde936c30498",
+    "semantic_hash": "27a8b4de39c66c45c338fde936c30498"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\components\\AudioRecorder.tsx": {
+    "mtime": 1780488014.471184,
+    "ast_hash": "8bd63a0b212e54861e0182d090d59423",
+    "semantic_hash": "8bd63a0b212e54861e0182d090d59423"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\components\\ChatAudio.tsx": {
+    "mtime": 1780488014.4747062,
+    "ast_hash": "c92e083a29cf70ffb54e184cb4c1edd6",
+    "semantic_hash": "c92e083a29cf70ffb54e184cb4c1edd6"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\components\\ChatFiles.tsx": {
+    "mtime": 1780488014.4807692,
+    "ast_hash": "d11fd2ecc31906d13bc93574f3da058c",
+    "semantic_hash": "d11fd2ecc31906d13bc93574f3da058c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\components\\ChatScreenshot.tsx": {
+    "mtime": 1780488014.4837658,
+    "ast_hash": "156404133bb5d9a1d020db526897418d",
+    "semantic_hash": "156404133bb5d9a1d020db526897418d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\components\\DeleteConfirmation.tsx": {
+    "mtime": 1780488014.488353,
+    "ast_hash": "44943a76c1eea8876282a7632d79486c",
+    "semantic_hash": "44943a76c1eea8876282a7632d79486c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\components\\View.tsx": {
+    "mtime": 1780488014.4923587,
+    "ast_hash": "6524231f7af7dae0ca99233b2840ab45",
+    "semantic_hash": "6524231f7af7dae0ca99233b2840ab45"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\components\\index.ts": {
+    "mtime": 1780488014.5009365,
+    "ast_hash": "3f518cd0ef15e896c41c1b2db61beb7c",
+    "semantic_hash": "3f518cd0ef15e896c41c1b2db61beb7c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\chats\\index.tsx": {
+    "mtime": 1780488014.505954,
+    "ast_hash": "0d3e5a174ceae840747d0898eb59f334",
+    "semantic_hash": "0d3e5a174ceae840747d0898eb59f334"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dashboard\\components\\PluelyApiSetup.tsx": {
+    "mtime": 1780488014.5221,
+    "ast_hash": "683d2c99a7bca15ad84a7bf17f4bc119",
+    "semantic_hash": "683d2c99a7bca15ad84a7bf17f4bc119"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dashboard\\components\\Usage.tsx": {
+    "mtime": 1780488014.526121,
+    "ast_hash": "7f4ecb030910f1f755181dcda9c44c11",
+    "semantic_hash": "7f4ecb030910f1f755181dcda9c44c11"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dashboard\\components\\index.ts": {
+    "mtime": 1780488014.5321796,
+    "ast_hash": "00f8b4fae52f894ecad4ff60cddd8299",
+    "semantic_hash": "00f8b4fae52f894ecad4ff60cddd8299"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dashboard\\index.tsx": {
+    "mtime": 1780488014.5458198,
+    "ast_hash": "2a02ddc1d782416d80c038b1992fa72f",
+    "semantic_hash": "2a02ddc1d782416d80c038b1992fa72f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\ai-configs\\CreateEditProvider.tsx": {
+    "mtime": 1780488014.5553973,
+    "ast_hash": "6de7d5b4249f113305b94ee940dd5340",
+    "semantic_hash": "6de7d5b4249f113305b94ee940dd5340"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\ai-configs\\CustomProvider.tsx": {
+    "mtime": 1780488014.5594013,
+    "ast_hash": "0a23dbb444ef9ff0fce11d1a45e888ce",
+    "semantic_hash": "0a23dbb444ef9ff0fce11d1a45e888ce"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\ai-configs\\Providers.tsx": {
+    "mtime": 1780488014.5795515,
+    "ast_hash": "cdfb57a70448745e7d9c2c14ab6134c1",
+    "semantic_hash": "cdfb57a70448745e7d9c2c14ab6134c1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\ai-configs\\index.tsx": {
+    "mtime": 1780488014.59112,
+    "ast_hash": "f765643895bc505ed557c84aeeb749b3",
+    "semantic_hash": "f765643895bc505ed557c84aeeb749b3"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\index.ts": {
+    "mtime": 1780488014.606238,
+    "ast_hash": "fcbc17459d46d434c413b069f7373785",
+    "semantic_hash": "fcbc17459d46d434c413b069f7373785"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\stt-configs\\CreateEditProvider.tsx": {
+    "mtime": 1780488014.6303477,
+    "ast_hash": "c0bc92f9d7daf6ebdff779171c314a53",
+    "semantic_hash": "c0bc92f9d7daf6ebdff779171c314a53"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\stt-configs\\CustomProvider.tsx": {
+    "mtime": 1780488014.6394525,
+    "ast_hash": "86b9745afd292ce19a7b2c6aff6c457d",
+    "semantic_hash": "86b9745afd292ce19a7b2c6aff6c457d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\stt-configs\\Providers.tsx": {
+    "mtime": 1780488014.6575909,
+    "ast_hash": "e2714f4eec8727691cd751d3cbe0b8cc",
+    "semantic_hash": "e2714f4eec8727691cd751d3cbe0b8cc"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\components\\stt-configs\\index.tsx": {
+    "mtime": 1780488014.6666381,
+    "ast_hash": "8e153d8f7d01b95b5ee2af9298978816",
+    "semantic_hash": "8e153d8f7d01b95b5ee2af9298978816"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\dev\\index.tsx": {
+    "mtime": 1780488014.6732225,
+    "ast_hash": "82b2506ee31cf0bf9057f78b082093f9",
+    "semantic_hash": "82b2506ee31cf0bf9057f78b082093f9"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\index.ts": {
+    "mtime": 1780488014.6847854,
+    "ast_hash": "aca13f89348996e47efee80275e57325",
+    "semantic_hash": "aca13f89348996e47efee80275e57325"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\responses\\components\\AutoScrollToggle.tsx": {
+    "mtime": 1780488014.7237403,
+    "ast_hash": "add45296080c607406e971e68c8f2c58",
+    "semantic_hash": "add45296080c607406e971e68c8f2c58"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\responses\\components\\LanguageSelector.tsx": {
+    "mtime": 1780488014.7987893,
+    "ast_hash": "d45f8bb08551a57d41106b9ace803c18",
+    "semantic_hash": "d45f8bb08551a57d41106b9ace803c18"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\responses\\components\\ResponseLength.tsx": {
+    "mtime": 1780488014.822514,
+    "ast_hash": "673a41e1a3bc3a0390a2ae92c9bbc30c",
+    "semantic_hash": "673a41e1a3bc3a0390a2ae92c9bbc30c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\responses\\components\\index.ts": {
+    "mtime": 1780488014.848874,
+    "ast_hash": "935a0cd2a3b2f76fa55c5296b849c8f6",
+    "semantic_hash": "935a0cd2a3b2f76fa55c5296b849c8f6"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\responses\\index.tsx": {
+    "mtime": 1780488014.855477,
+    "ast_hash": "12d467e9a73ba1690f3375acb4726e84",
+    "semantic_hash": "12d467e9a73ba1690f3375acb4726e84"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\screenshot\\components\\ScreenshotConfigs.tsx": {
+    "mtime": 1780488014.8645673,
+    "ast_hash": "2fc92276e579a9b265b8ad6a428d8734",
+    "semantic_hash": "2fc92276e579a9b265b8ad6a428d8734"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\screenshot\\components\\index.ts": {
+    "mtime": 1780488014.8736815,
+    "ast_hash": "2ce811966342dd9a4aa4bf17e3c1af2d",
+    "semantic_hash": "2ce811966342dd9a4aa4bf17e3c1af2d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\screenshot\\index.tsx": {
+    "mtime": 1780488014.8797097,
+    "ast_hash": "5ddc876d0f1d34106a2ad9450e2f400a",
+    "semantic_hash": "5ddc876d0f1d34106a2ad9450e2f400a"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\settings\\components\\AlwaysOnTopToggle.tsx": {
+    "mtime": 1780488014.8908226,
+    "ast_hash": "7fb39581445d9ba84ae7cba9054782c7",
+    "semantic_hash": "7fb39581445d9ba84ae7cba9054782c7"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\settings\\components\\AppIconToggle.tsx": {
+    "mtime": 1780488014.8979006,
+    "ast_hash": "8d992a6758abedd974ae0d5928de9e45",
+    "semantic_hash": "8d992a6758abedd974ae0d5928de9e45"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\settings\\components\\AutostartToggle.tsx": {
+    "mtime": 1780488014.906483,
+    "ast_hash": "7e65bbc9ad300860559cfb02080e0496",
+    "semantic_hash": "7e65bbc9ad300860559cfb02080e0496"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\settings\\components\\DeleteChats.tsx": {
+    "mtime": 1780488014.9114814,
+    "ast_hash": "a56bad8cd6a482c6ecc0e9f5fd078304",
+    "semantic_hash": "a56bad8cd6a482c6ecc0e9f5fd078304"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\settings\\components\\Theme.tsx": {
+    "mtime": 1780488014.9225833,
+    "ast_hash": "0dcfb2621b73a3f71d0d5e18fc4afff6",
+    "semantic_hash": "0dcfb2621b73a3f71d0d5e18fc4afff6"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\settings\\components\\index.ts": {
+    "mtime": 1780488014.9271817,
+    "ast_hash": "405b6f1f6f93d3a9fba2d90f69d2ee3a",
+    "semantic_hash": "405b6f1f6f93d3a9fba2d90f69d2ee3a"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\settings\\index.tsx": {
+    "mtime": 1780488014.9474008,
+    "ast_hash": "ece93ec2937059ffad269dd340aabeac",
+    "semantic_hash": "ece93ec2937059ffad269dd340aabeac"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\shortcuts\\components\\Cursor.tsx": {
+    "mtime": 1780488014.969622,
+    "ast_hash": "fcc687db77d4b26ce9b8ffbaee45fe9c",
+    "semantic_hash": "fcc687db77d4b26ce9b8ffbaee45fe9c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\shortcuts\\components\\index.ts": {
+    "mtime": 1780488014.981756,
+    "ast_hash": "bb6e1df80f9b48dbbfe23f59b33c30e4",
+    "semantic_hash": "bb6e1df80f9b48dbbfe23f59b33c30e4"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\shortcuts\\components\\shortcuts\\ShortcutManager.tsx": {
+    "mtime": 1780488014.9944153,
+    "ast_hash": "4d5653a2259e06ca13689b69350c81c7",
+    "semantic_hash": "4d5653a2259e06ca13689b69350c81c7"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\shortcuts\\components\\shortcuts\\ShortcutRecorder.tsx": {
+    "mtime": 1780488014.999977,
+    "ast_hash": "b5f41ed5591ef92da82adc2c7196342e",
+    "semantic_hash": "b5f41ed5591ef92da82adc2c7196342e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\shortcuts\\components\\shortcuts\\index.tsx": {
+    "mtime": 1780488015.0110652,
+    "ast_hash": "b35f614985e7e74397eb2e0d6636034d",
+    "semantic_hash": "b35f614985e7e74397eb2e0d6636034d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\shortcuts\\index.tsx": {
+    "mtime": 1780488015.0136082,
+    "ast_hash": "0d6b2d5f18a6217fd7dad487e26d26d5",
+    "semantic_hash": "0d6b2d5f18a6217fd7dad487e26d26d5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\system-prompts\\Create.tsx": {
+    "mtime": 1780488015.024702,
+    "ast_hash": "8a467007b4c479a3e677504295d470e8",
+    "semantic_hash": "8a467007b4c479a3e677504295d470e8"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\system-prompts\\CreateEditDialog.tsx": {
+    "mtime": 1780488015.0302455,
+    "ast_hash": "162be3a8c9ac07b3ec31b6391b234743",
+    "semantic_hash": "162be3a8c9ac07b3ec31b6391b234743"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\system-prompts\\Delete.tsx": {
+    "mtime": 1780488015.0344381,
+    "ast_hash": "70e4163e57f1ff6be51d77ac44f20d4a",
+    "semantic_hash": "70e4163e57f1ff6be51d77ac44f20d4a"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\system-prompts\\Generate.tsx": {
+    "mtime": 1780488015.0394685,
+    "ast_hash": "841ee67c91c5bfee38c1264e67655353",
+    "semantic_hash": "841ee67c91c5bfee38c1264e67655353"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\system-prompts\\PluelyPrompts.tsx": {
+    "mtime": 1780488015.0709655,
+    "ast_hash": "5d32c84e3cbdf427e4d6485a4d1b1346",
+    "semantic_hash": "5d32c84e3cbdf427e4d6485a4d1b1346"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\pages\\system-prompts\\index.tsx": {
+    "mtime": 1780488015.1522408,
+    "ast_hash": "4737b0da531a83ef37dbab356c2d2675",
+    "semantic_hash": "4737b0da531a83ef37dbab356c2d2675"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\routes\\index.tsx": {
+    "mtime": 1780488015.1629593,
+    "ast_hash": "f8b9ef27a7c5f26a7cb2e70ace42860b",
+    "semantic_hash": "f8b9ef27a7c5f26a7cb2e70ace42860b"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\completion.hook.ts": {
+    "mtime": 1780488015.176631,
+    "ast_hash": "ab2197dca4fa4ae6ce9d0a17be477a88",
+    "semantic_hash": "ab2197dca4fa4ae6ce9d0a17be477a88"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\completion.ts": {
+    "mtime": 1780488015.1832805,
+    "ast_hash": "40d65877bae5f99a535286246e5431a1",
+    "semantic_hash": "40d65877bae5f99a535286246e5431a1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\context.type.ts": {
+    "mtime": 1780488015.1873057,
+    "ast_hash": "9dce04bde36f1e6b07befcd303af62f1",
+    "semantic_hash": "9dce04bde36f1e6b07befcd303af62f1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\index.ts": {
+    "mtime": 1780488015.191369,
+    "ast_hash": "61baec53831ef66cd6ff44ece53b5403",
+    "semantic_hash": "61baec53831ef66cd6ff44ece53b5403"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\provider.type.ts": {
+    "mtime": 1780488015.1948981,
+    "ast_hash": "da3de69559f6cfa70577369f96639d8f",
+    "semantic_hash": "da3de69559f6cfa70577369f96639d8f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\settings.hook.ts": {
+    "mtime": 1780488015.1994169,
+    "ast_hash": "bbf8ca10c5bcd124c53c0b0672e8093c",
+    "semantic_hash": "bbf8ca10c5bcd124c53c0b0672e8093c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\settings.ts": {
+    "mtime": 1780488015.2075057,
+    "ast_hash": "1b3f01681a859b841e556f36dbd83d8d",
+    "semantic_hash": "1b3f01681a859b841e556f36dbd83d8d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\shortcuts.ts": {
+    "mtime": 1780488015.2135723,
+    "ast_hash": "19ae31c4cf4ad8fc8402f3941db9a0b1",
+    "semantic_hash": "19ae31c4cf4ad8fc8402f3941db9a0b1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\types\\system-prompts.ts": {
+    "mtime": 1780488015.2201073,
+    "ast_hash": "73ef1986589aef1ed29dd42da4ab31ea",
+    "semantic_hash": "73ef1986589aef1ed29dd42da4ab31ea"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src\\vite-env.d.ts": {
+    "mtime": 1780488015.2286923,
+    "ast_hash": "8f68c27c3fc38817b2726b20e2d4f1ee",
+    "semantic_hash": "8f68c27c3fc38817b2726b20e2d4f1ee"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\tsconfig.json": {
+    "mtime": 1780488015.2353063,
+    "ast_hash": "523650f670874b22d6727655239f89b5",
+    "semantic_hash": "523650f670874b22d6727655239f89b5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\tsconfig.node.json": {
+    "mtime": 1780488015.253008,
+    "ast_hash": "b7bada76d22c93d81ccd1c6cec7ade4c",
+    "semantic_hash": "b7bada76d22c93d81ccd1c6cec7ade4c"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\vite.config.ts": {
+    "mtime": 1780488015.2565894,
+    "ast_hash": "b101041b373c2dbe6bda10d2178ca13f",
+    "semantic_hash": "b101041b373c2dbe6bda10d2178ca13f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\.github\\FUNDING.yml": {
+    "mtime": 1780488013.5377915,
+    "ast_hash": "8892805d75259ceb66f72c2e51638400",
+    "semantic_hash": "8892805d75259ceb66f72c2e51638400"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\.github\\ISSUE_TEMPLATE\\bug-report.yml": {
+    "mtime": 1780488013.5433471,
+    "ast_hash": "33865fd2481f6ca8bae3dc1d53c5c5f1",
+    "semantic_hash": "33865fd2481f6ca8bae3dc1d53c5c5f1"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\.github\\ISSUE_TEMPLATE\\feature-request.yml": {
+    "mtime": 1780488013.5453782,
+    "ast_hash": "2d9aefc5090c8d0c1fd560b869df9e4f",
+    "semantic_hash": "2d9aefc5090c8d0c1fd560b869df9e4f"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\.github\\ISSUE_TEMPLATE\\general-issue.yml": {
+    "mtime": 1780488013.5564637,
+    "ast_hash": "826bf0b48f7a636cf809303e9721eef5",
+    "semantic_hash": "826bf0b48f7a636cf809303e9721eef5"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\.github\\workflows\\publish.yml": {
+    "mtime": 1780488013.561521,
+    "ast_hash": "20e715de48d9b97f6110d077e2576eaf",
+    "semantic_hash": "20e715de48d9b97f6110d077e2576eaf"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\README.md": {
+    "mtime": 1780488013.591323,
+    "ast_hash": "d3d128a20432814d48ffedb89ff87185",
+    "semantic_hash": "d3d128a20432814d48ffedb89ff87185"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\SECURITY.md": {
+    "mtime": 1780488013.5953481,
+    "ast_hash": "8f43b83b78dd5b76efae677f19a36b0d",
+    "semantic_hash": "8f43b83b78dd5b76efae677f19a36b0d"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\index.html": {
+    "mtime": 1780488013.7846358,
+    "ast_hash": "fed1869beef13c8708b0b72a89ae0f95",
+    "semantic_hash": "fed1869beef13c8708b0b72a89ae0f95"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\images\\app-image.png": {
+    "mtime": 1780488013.7794926,
+    "ast_hash": "2e9ef1b52850f13d86bcaee659e44253",
+    "semantic_hash": "2e9ef1b52850f13d86bcaee659e44253"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\icons\\128x128.png": {
+    "mtime": 1780488013.8371222,
+    "ast_hash": "3198bafb4d606b05f05e29be55f87349",
+    "semantic_hash": "3198bafb4d606b05f05e29be55f87349"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\icons\\128x128@2x.png": {
+    "mtime": 1780488013.843684,
+    "ast_hash": "5c4f030091b37b3039a734073eb5e5bc",
+    "semantic_hash": "5c4f030091b37b3039a734073eb5e5bc"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\icons\\32x32.png": {
+    "mtime": 1780488013.8512554,
+    "ast_hash": "11c91e7dae99d79cb656970c4a396b7e",
+    "semantic_hash": "11c91e7dae99d79cb656970c4a396b7e"
+  },
+  "C:\\Users\\uscha\\OneDrive\\Desktop\\fakeview\\pluely\\src-tauri\\icons\\icon.png": {
+    "mtime": 1780488013.884143,
+    "ast_hash": "a81fc66f8fa5a31a998746d56df9e043",
+    "semantic_hash": "a81fc66f8fa5a31a998746d56df9e043"
+  }
+}

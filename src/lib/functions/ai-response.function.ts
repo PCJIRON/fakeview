@@ -226,6 +226,7 @@ export async function* fetchAIResponse(params: {
       ({ key }) => key !== "SYSTEM_PROMPT" && key !== "TEXT" && key !== "IMAGE"
     );
     for (const { key } of requiredVars) {
+      if (key === "api_key" && provider.id === "opencode-zen") continue;
       if (
         !selectedProvider.variables?.[key] ||
         selectedProvider.variables[key].trim() === ""
@@ -262,7 +263,7 @@ export async function* fetchAIResponse(params: {
       bodyObj[messagesKey] = finalMessages;
     }
 
-    const allVariables = {
+    const allVariables: Record<string, string> = {
       ...Object.fromEntries(
         Object.entries(selectedProvider.variables).map(([key, value]) => [
           key.toUpperCase(),
@@ -272,11 +273,20 @@ export async function* fetchAIResponse(params: {
       SYSTEM_PROMPT: enhancedSystemPrompt || "",
     };
 
+    if (provider.id === "opencode-zen" && !allVariables.API_KEY?.trim()) {
+      allVariables.API_KEY = "public";
+    }
+
     bodyObj = deepVariableReplacer(bodyObj, allVariables);
     let url = deepVariableReplacer(curlJson.url || "", allVariables);
 
     const headers = deepVariableReplacer(curlJson.header || {}, allVariables);
     headers["Content-Type"] = "application/json";
+
+    if (provider.id === "opencode-zen") {
+      headers["x-opencode-session"] = crypto.randomUUID();
+      headers["x-opencode-request"] = crypto.randomUUID();
+    }
 
     if (provider?.streaming) {
       if (typeof bodyObj === "object" && bodyObj !== null) {
@@ -291,7 +301,7 @@ export async function* fetchAIResponse(params: {
       }
     }
 
-    const fetchFunction = url?.includes("http") ? fetch : tauriFetch;
+    const fetchFunction = tauriFetch;
 
     let response;
     try {

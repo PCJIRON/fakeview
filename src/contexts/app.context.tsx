@@ -5,7 +5,6 @@ import {
   STORAGE_KEYS,
 } from "@/config";
 import { getPlatform, safeLocalStorage, trackAppStart } from "@/lib";
-import { getShortcutsConfig } from "@/lib/storage";
 import {
   getCustomizableState,
   setCustomizableState,
@@ -131,7 +130,7 @@ export const AppProvider = ({ children }: { children: ReactNode }) => {
   const [customizable, setCustomizable] = useState<CustomizableState>(
     DEFAULT_CUSTOMIZABLE_STATE
   );
-  const [hasActiveLicense, setHasActiveLicense] = useState<boolean>(false);
+  const [hasActiveLicense, setHasActiveLicense] = useState<boolean>(true);
   const [supportsImages, setSupportsImagesState] = useState<boolean>(() => {
     const stored = safeLocalStorage.getItem(STORAGE_KEYS.SUPPORTS_IMAGES);
     return stored === null ? true : stored === "true";
@@ -149,43 +148,8 @@ export const AppProvider = ({ children }: { children: ReactNode }) => {
   );
 
   const getActiveLicenseStatus = async () => {
-    const response: { is_active: boolean; is_dev_license: boolean } =
-      await invoke("validate_license_api");
-    setHasActiveLicense(response.is_active);
-
-    if (response?.is_dev_license) {
-      setPluelyApiEnabled(false);
-    }
-
-    // Check if the auto configs are enabled
-    const autoConfigsEnabled = localStorage.getItem("auto-configs-enabled");
-    if (response.is_active && !autoConfigsEnabled) {
-      setScreenshotConfiguration({
-        mode: "auto",
-        autoPrompt: "Analyze the screenshot and provide insights",
-        enabled: false,
-      });
-      // Set the flag to true so that we don't change the mode again
-      localStorage.setItem("auto-configs-enabled", "true");
-    }
+    setHasActiveLicense(true);
   };
-
-  useEffect(() => {
-    const syncLicenseState = async () => {
-      try {
-        await invoke("set_license_status", {
-          hasLicense: hasActiveLicense,
-        });
-
-        const config = getShortcutsConfig();
-        await invoke("update_shortcuts", { config });
-      } catch (error) {
-        console.error("Failed to synchronize license state:", error);
-      }
-    };
-
-    syncLicenseState();
-  }, [hasActiveLicense]);
 
   // Function to load AI, STT, system prompt and screenshot config data from storage
   const loadData = () => {
