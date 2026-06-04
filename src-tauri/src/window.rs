@@ -17,6 +17,15 @@ pub fn setup_main_window(app: &mut App) -> Result<(), Box<dyn std::error::Error>
         })
         .ok_or("No window found")?;
 
+    // Hide taskbar icon on Windows - force it by hiding and showing again
+    #[cfg(target_os = "windows")]
+    {
+        let _ = window.set_skip_taskbar(true);
+        let _ = window.hide();
+        let _ = window.show();
+        let _ = window.set_skip_taskbar(true);
+    }
+
     position_window_top_center(&window, TOP_OFFSET)?;
 
     // Set window as non-focusable on Windows

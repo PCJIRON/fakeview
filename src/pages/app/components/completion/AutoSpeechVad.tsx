@@ -2,7 +2,7 @@ import { fetchSTT } from "@/lib";
 import { UseCompletionReturn } from "@/types";
 import { useMicVAD } from "@ricky0123/vad-react";
 import { LoaderCircleIcon, MicIcon, MicOffIcon } from "lucide-react";
-import { useState } from "react";
+import { useState, useRef } from "react";
 import { Button } from "@/components";
 import { useApp } from "@/contexts";
 import { floatArrayToWav } from "@/lib/utils";
@@ -23,6 +23,8 @@ const AutoSpeechVADInternal = ({
 }: AutoSpeechVADProps) => {
   const [isTranscribing, setIsTranscribing] = useState(false);
   const { selectedSttProvider, allSttProviders } = useApp();
+  const submitRef = useRef(submit);
+  submitRef.current = submit;
 
   const audioConstraints: MediaTrackConstraints =
     microphoneDeviceId && microphoneDeviceId !== "default"
@@ -76,7 +78,7 @@ const AutoSpeechVADInternal = ({
         });
 
         if (transcription) {
-          submit(transcription);
+          submitRef.current(transcription);
         }
       } catch (error) {
         console.error("Failed to transcribe audio:", error);

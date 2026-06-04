@@ -214,6 +214,12 @@ export const AppProvider = ({ children }: { children: ReactNode }) => {
     );
     if (savedSelectedStt) {
       setSelectedSttProvider(JSON.parse(savedSelectedStt));
+    } else {
+      // Default to free browser speech recognition
+      setSelectedSttProvider({
+        provider: "browser-speech",
+        variables: {},
+      });
     }
 
     // Load customizable state

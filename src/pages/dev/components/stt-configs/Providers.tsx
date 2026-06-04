@@ -1,7 +1,7 @@
 import { Button, Header, Input, Selection, TextInput } from "@/components";
 import { UseSettingsReturn } from "@/types";
 import curl2Json, { ResultJSON } from "@bany/curl-to-json";
-import { KeyIcon, TrashIcon } from "lucide-react";
+import { KeyIcon, SpeechIcon, TrashIcon } from "lucide-react";
 import { useEffect, useState } from "react";
 
 export const Providers = ({
@@ -13,17 +13,23 @@ export const Providers = ({
   const [localSelectedProvider, setLocalSelectedProvider] =
     useState<ResultJSON | null>(null);
 
+  const isBrowserSpeech = selectedSttProvider?.provider === "browser-speech";
+
   useEffect(() => {
-    if (selectedSttProvider?.provider) {
+    if (selectedSttProvider?.provider && !isBrowserSpeech) {
       const provider = allSttProviders?.find(
         (p) => p?.id === selectedSttProvider?.provider
       );
-      if (provider) {
-        const json = curl2Json(provider?.curl);
-        setLocalSelectedProvider(json as ResultJSON);
+      if (provider && provider.curl) {
+        try {
+          const json = curl2Json(provider?.curl);
+          setLocalSelectedProvider(json as ResultJSON);
+        } catch {}
       }
+    } else {
+      setLocalSelectedProvider(null);
     }
-  }, [selectedSttProvider?.provider]);
+  }, [selectedSttProvider?.provider, isBrowserSpeech]);
 
   const findKeyAndValue = (key: string) => {
     return sttVariables?.find((v) => v?.key === key);
@@ -49,13 +55,20 @@ export const Providers = ({
         <Selection
           selected={selectedSttProvider?.provider}
           options={allSttProviders?.map((provider) => {
-            const json = curl2Json(provider?.curl);
+            let label = provider?.id || "Custom Provider";
+            if (provider?.isBuiltIn) {
+              label = provider.name + " (No API Key Needed)";
+            } else if (provider?.isCustom) {
+              try {
+                const json = curl2Json(provider?.curl);
+                label = json?.url || "Custom Provider";
+              } catch {}
+            }
             return {
-              label: provider?.isCustom
-                ? json?.url || "Custom Provider"
-                : provider?.id || "Custom Provider",
+              label,
               value: provider?.id || "Custom Provider",
               isCustom: provider?.isCustom,
+              isBuiltIn: provider?.isBuiltIn,
             };
           })}
           placeholder="Choose your STT provider"
@@ -67,7 +80,24 @@ export const Providers = ({
           }}
         />
       </div>
-      {localSelectedProvider ? (
+      {isBrowserSpeech ? (
+        <div className="p-4 rounded-lg bg-green-50 border border-green-200">
+          <div className="flex items-start gap-3">
+            <SpeechIcon className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
+            <div>
+              <h4 className="font-medium text-sm text-green-800">Free Browser Speech Recognition</h4>
+              <p className="text-xs text-green-700 mt-1">
+                Using your browser's built-in speech recognition. No API key required. 
+                Works entirely offline and is the most private option.
+              </p>
+              <p className="text-xs text-green-600 mt-1">
+                Note: Best results in Chrome/Edge-based browsers. The first time you use it,
+                your browser will ask for microphone permission.
+              </p>
+            </div>
+          </div>
+        </div>
+      ) : localSelectedProvider ? (
         <Header
           title={`Method: ${
             localSelectedProvider?.method || "Invalid"
@@ -75,7 +105,7 @@ export const Providers = ({
           description={`If you want to use different url or method, you can always create a custom provider.`}
         />
       ) : null}
-      {findKeyAndValue("api_key") ? (
+      {!isBrowserSpeech && findKeyAndValue("api_key") ? (
         <div className="space-y-2">
           <Header
             title="API Key"
@@ -172,7 +202,7 @@ export const Providers = ({
       ) : null}
 
       <div className="space-y-4 mt-2">
-        {sttVariables
+        {!isBrowserSpeech && sttVariables
           ?.filter(
             (variable) => variable?.key !== findKeyAndValue("api_key")?.key
           )

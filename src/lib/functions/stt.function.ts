@@ -60,6 +60,11 @@ export async function fetchSTT(params: STTParams): Promise<string> {
       return await fetchPluelySTT(audio);
     }
 
+    // Browser speech recognition is handled directly in the VAD component
+    if (provider?.id === "browser-speech") {
+      throw new Error("Browser speech recognition should be used directly. Please use Chrome or Edge.");
+    }
+
     if (!provider) throw new Error("Provider not provided");
     if (!selectedProvider) throw new Error("Selected provider not provided");
     if (!audio) throw new Error("Audio file is required");
